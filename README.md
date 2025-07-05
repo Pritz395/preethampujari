@@ -35,7 +35,7 @@ Things I work with:
 ## 🤝 Let’s Connect
 
 - 📫 Email: [preethampujari395@gmail.com](mailto:preethampujari395@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/preethampujari](https://linkedin.com/in/preethampujari)  
+- 💼 LinkedIn: [linkedin.com/in/preethampujari](https://www.linkedin.com/in/preetham-poojari-935702280/)  
 - 🗣️ [Leave a testimonial or feedback](https://docs.google.com/forms/d/e/1FAIpQLSefK4S-lw9qaVhabhvn6ZBTPzMN6SnzAiuXRVh0DkXdfYEXxw/viewform?usp=header)
 
 ---
