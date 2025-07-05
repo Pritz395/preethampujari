@@ -1,69 +1,42 @@
-# preethampujari
-
 # 👋 Hi, I'm Preetham Poojari
 
-🎓 CS Undergrad @ GITAM University (CGPA: 8.1)  
-💻 Backend Developer | Python Programmer | Learning Full-Stack Development  
-🤖 AI/ML Enthusiast — exploring LangChain, LLMs & data science tools  
-🚀 Passionate about solving real-world problems with code  
-🏆 Hackathon Finalist | Lifelong Learner | Always curious
+💻 Developer | Backend-Focused | Product Builder  
+🚀 Turning ideas into scalable systems and real-world software  
+🏆 Hackathon Finalist | Freelance Dev | Always Learning
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech & Tools
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+I work across the stack with a strong backend foundation.  
+My toolkit evolves — but the focus stays on **clarity, efficiency, and real-world value**.
 
-**Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)  
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)  
-REST APIs, JWT, Postman
+Things I work with:
+- Backend development & API design  
+- Databases & query optimization  
+- Automation & scripting  
+- Full-stack systems & deployment  
+- Experimenting with AI, LLMs, and dev tooling
 
-**AI/ML Exploration:**  
-LangChain, OpenAI API, scikit-learn, Streamlit, Dialogflow  
-BeautifulSoup, Selenium (for web scraping & automation)
-
-**Dev Tools:**  
-Git, VS Code, Postman
+> I learn by building — not by waiting.
 
 ---
 
-## 📌 Featured Projects
+## 🌱 Current Focus
 
-- 🗂️ [Task Manager Backend API](https://github.com/preethampujari/task-manager-api)  
-  REST API with modular structure and JWT authentication built using Node.js + MongoDB.
-
-- 🔐 [User Authentication Microservice](https://github.com/preethampujari/auth-microservice)  
-  Simple and secure authentication service using bcrypt, tokens, and Express.js.
-
-- 🤖 [AI Web Scraper + LLM (WIP)](https://github.com/preethampujari/ai-web-scraper-llm)  
-  Early project using Selenium + LangChain to experiment with smart data extraction.
-
-- 💰 [Personal Finance Manager](https://github.com/preethampujari/finance-dashboard)  
-  Finance tracker with budget & EMI calculator built with Streamlit and PostgreSQL.
-
-> ⭐ Check out my pinned repos to see what I’ve been building and experimenting with!
+- Scaling real-world systems  
+- React, TypeScript, and modern full-stack workflows  
+- Practical AI integrations  
+- MS in CS (Fall 2027 target)  
+- Building long-term impact through products & startups
 
 ---
 
-## 🎯 Currently Learning
-- React.js and frontend development  
-- Building & deploying full-stack apps  
-- Deeper understanding of machine learning concepts and tools
+## 🤝 Let’s Connect
 
----
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/preethampujari)  
-- 📧 [preethampujari395@gmail.com](mailto:preethampujari395@gmail.com)
+- 📫 Email: [preethampujari395@gmail.com](mailto:preethampujari395@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/preethampujari](https://linkedin.com/in/preethampujari)  
+- 🗣️ [Leave a testimonial or feedback](https://docs.google.com/forms/d/e/1FAIpQLSefK4S-lw9qaVhabhvn6ZBTPzMN6SnzAiuXRVh0DkXdfYEXxw/viewform?usp=header)
 
 ---
 
@@ -73,6 +46,7 @@ Git, VS Code, Postman
 
 ---
 
-_“Build boldly. Fail fast. Iterate smarter.”_
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=preethampujari.visitor-badge)
+
+> “Build boldly. Fail fast. Iterate smarter.”
+
