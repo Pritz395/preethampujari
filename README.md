@@ -18,7 +18,7 @@ Things I work with:
 - Full-stack systems & deployment  
 - Experimenting with AI, LLMs, and dev tooling
 
-> Build.Build.Build
+> "Build.Build.Build"
 
 ---
 
