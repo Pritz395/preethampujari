@@ -18,7 +18,7 @@ Things I work with:
 - Full-stack systems & deployment  
 - Experimenting with AI, LLMs, and dev tooling
 
-> I learn by building — not by waiting.
+> Build.Build.Build
 
 ---
 
@@ -39,14 +39,6 @@ Things I work with:
 - 🗣️ [Leave a testimonial or feedback](https://docs.google.com/forms/d/e/1FAIpQLSefK4S-lw9qaVhabhvn6ZBTPzMN6SnzAiuXRVh0DkXdfYEXxw/viewform?usp=header)
 
 ---
-
-## 📊 GitHub Stats
-
-![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethampujari&show_icons=true&theme=radical)
-
----
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=preethampujari.visitor-badge)
 
 > “Build boldly. Fail fast. Iterate smarter.”
 
